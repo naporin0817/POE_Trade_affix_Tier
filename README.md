@@ -1,0 +1,2 @@
+# POE_Trade_affix_Tier
+POEトレードサイト上で「affixを選ぶ→Tierの数値レンジが横に出る→Tierを選ぶと自動でmin/maxが入る」という一連の体験を提供するブラウザ拡張機能
